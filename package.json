@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build htttps://$GH_TOKEN@/github.com/Leososa27660/androbots"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
